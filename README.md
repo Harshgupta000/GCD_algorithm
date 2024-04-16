@@ -1,0 +1,1 @@
+The Greatest Common Divisor (GCD) algorithm, also known as Euclidean Algorithm, is a fundamental algorithm used to find the largest positive integer that divides two integers without leaving a remainder. It's widely employed in various applications, including digital electronics.
